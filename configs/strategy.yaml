@@ -1,4 +1,4 @@
-version: '31'
+version: '32'
 entry:
   indicator: RSI
   threshold: 43.0
@@ -6,6 +6,6 @@ direction: LONG
 stop_loss_pct: 1.0
 take_profit_pct: 15.0
 take_profit2_pct: 15
-position_size_pct: 14.0
+position_size_pct: 15.0
 timeframe: 15m
 lookback_candles: 200
